@@ -2,5 +2,6 @@ body{
     background-color: blanchedalmond;
 }
 input{
-    width: 100%;
+    width: 20px;
+    height: 15px;
 }
